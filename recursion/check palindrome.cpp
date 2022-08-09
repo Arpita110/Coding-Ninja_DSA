@@ -1,6 +1,5 @@
 /*
 CHECK PALINDROME
-
 */
 bool helperpali(char input[], int start, int end){
     if(start > end){
